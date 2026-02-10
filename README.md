@@ -1,2 +1,4 @@
-# Test_Taskbar_Progress
-Windows任务栏进度条测试程序，想象一下你正在下载一个大文件，Windows任务栏上会出现一个进度条显示下载进度。这就是任务栏进度条！它能让用户在不打开程序窗口的情况下，直接在任务栏上看到操作的进度。
+# 软件截图
+
+<img width="1113" height="626" alt="image" src="https://github.com/user-attachments/assets/c8327421-7ed8-40f7-a3db-2633c922ec03" />
+
