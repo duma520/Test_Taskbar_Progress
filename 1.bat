@@ -1,0 +1,2 @@
+cls
+python Test_Taskbar_Progress.py
